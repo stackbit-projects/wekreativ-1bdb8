@@ -67,7 +67,7 @@
                 "new_window": true
             }
         ],
-        "content": "&copy; wekreativ. Todos los derechos reservados.  <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Crea tu sitio web ahora <a href=\"https://app.stackbit.com/create?theme=starter&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>"
+        "content": "&copy; wekreativ. Todos los derechos reservados.  <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Consigue tu sitio web ahora <a href=\"https://app.stackbit.com/create?theme=starter&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>"
     },
     "domain": "https://wekreativ-1bdb8.netlify.app"
 }
