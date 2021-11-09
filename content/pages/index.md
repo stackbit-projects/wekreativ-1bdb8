@@ -41,10 +41,10 @@ sections:
             url: /features
             style: secondary
       - title: Nos ajustamos a tu presupuesto
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          Porque conseguir un sitio web eficiente, limpio, con buen diseño no
+          tiene porque costarte tanto, nosotros nos ajustamos a tu presupuesto
+          brindándote la mejor relación calidad/precio del mercado
         align: left
         image: images/feature.svg
         image_alt: Feature 2 placeholder image
