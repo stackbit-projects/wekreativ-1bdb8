@@ -73,10 +73,7 @@ sections:
     recent_count: 3
   - type: cta_section
     title: Trabajemos juntos en tu próximo proyecto
-    actions:
-      - label: Learn More
-        url: /features
-        style: primary
+    actions: []
     has_background: true
     background_color: gray
   - title: lorem-ipsum
