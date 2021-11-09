@@ -10,7 +10,7 @@ sections:
       - label: Ver mas
         url: /features
         style: primary
-      - label: Contact Us
+      - label: Contactanos
         url: /contact
         style: secondary
     align: left
