@@ -76,7 +76,7 @@ sections:
     actions: []
     has_background: true
     background_color: gray
-  - title: Contactanos
+  - title: Contáctanos
     type: contact_section
 seo:
   title: Stackbit Starter Theme
