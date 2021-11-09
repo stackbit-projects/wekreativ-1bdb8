@@ -7,7 +7,7 @@ sections:
       Tenemos la mejor solución para tu negocio, emprendimiento, idea de
       negocio.
     actions:
-      - label: Ver mas
+      - label: Ver más
         url: /features
         style: primary
       - label: Contáctanos
