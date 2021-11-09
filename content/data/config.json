@@ -36,7 +36,7 @@
         "has_nav": true,
         "nav_links": [
             {
-                "label": "Contactanos",
+                "label": "Contáctanos",
                 "url": "/contact",
                 "style": "link"
             },
