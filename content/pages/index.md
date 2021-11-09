@@ -28,10 +28,10 @@ sections:
     title: Servicios
     features:
       - title: Desarrollo y diseño web
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Construiremos el sitio web para tu negocio, marca personal o
+          emprendimiento. Cuéntanos que tienes en mente que nosotros nos
+          encargamos del resto
         align: left
         image: images/feature.svg
         image_alt: Feature 1 placeholder image
