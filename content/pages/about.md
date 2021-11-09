@@ -32,7 +32,7 @@ sections:
       - content/data/team/dianne-ameter.yaml
       - content/data/team/eleanor-carr.yaml
   - type: cta_section
-    subtitle: 'Si eres estudiante o profesional, y tienes conocimiento en dise'
+    subtitle: 'Si eres estudiante o profesional, y '
     actions:
       - label: Contact Us
         url: /contact
