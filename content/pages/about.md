@@ -32,7 +32,6 @@ sections:
       - content/data/team/dianne-ameter.yaml
       - content/data/team/eleanor-carr.yaml
   - type: cta_section
-    title: Join the Team
     subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
     actions:
       - label: Contact Us
