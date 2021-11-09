@@ -3,7 +3,9 @@ title: Home
 sections:
   - type: hero_section
     title: Somos un estudio de software que cree en las grandes ideas
-    subtitle: Tenemos la mejor solución para tu negocio
+    subtitle: >-
+      Tenemos la mejor solución para tu negocio, emprendimiento, idea de
+      negocio.
     actions:
       - label: Learn More
         url: /features
