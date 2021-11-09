@@ -32,7 +32,7 @@ sections:
       - content/data/team/dianne-ameter.yaml
       - content/data/team/eleanor-carr.yaml
   - type: cta_section
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
+    subtitle: 'Si eres estudiante o profesional, y tienes conocimiento en dise'
     actions:
       - label: Contact Us
         url: /contact
