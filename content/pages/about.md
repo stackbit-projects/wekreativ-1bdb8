@@ -26,7 +26,7 @@ sections:
       ahorrarías pagar por ese intermediario ya que los proyectos son
       desarrollados por nuestro equipo.
   - type: team_section
-    title: Our Team
+    title: Nuestro equipo
     team:
       - content/data/team/miles-tone.yaml
       - content/data/team/dianne-ameter.yaml
