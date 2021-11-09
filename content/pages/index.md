@@ -3,9 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Somos un estudio de software que cree en las grandes ideas
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: Brindamos la mejor solucion para tu negocio
     actions:
       - label: Learn More
         url: /features
