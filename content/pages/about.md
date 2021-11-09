@@ -32,7 +32,7 @@ sections:
       - content/data/team/dianne-ameter.yaml
       - content/data/team/eleanor-carr.yaml
   - type: cta_section
-    subtitle: 'Si eres estudiante o profesional, y tienes motivación, mandanos un mensaje'
+    subtitle: 'Si eres estudiante o profesional, y tienes motivación, mándanos un mensaje'
     actions:
       - label: Contact Us
         url: /contact
