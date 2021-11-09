@@ -34,7 +34,7 @@ sections:
   - type: cta_section
     subtitle: 'Si eres estudiante o profesional, y tienes motivación, mándanos un mensaje'
     actions:
-      - label: Conta
+      - label: 'Contactanos '
         url: /contact
         style: secondary
     has_background: true
