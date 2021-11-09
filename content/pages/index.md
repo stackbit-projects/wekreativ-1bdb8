@@ -50,7 +50,7 @@ sections:
         image_alt: Feature 2 placeholder image
         image_position: left
         actions:
-          - label: Ver mas
+          - label: Ver más
             url: /features
             style: secondary
       - title: Feature 3
