@@ -76,7 +76,7 @@ sections:
     actions: []
     has_background: true
     background_color: gray
-  - title: lorem-ipsum
+  - title: Contactanos
     type: contact_section
 seo:
   title: Stackbit Starter Theme
