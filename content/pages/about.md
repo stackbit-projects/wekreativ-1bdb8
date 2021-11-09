@@ -39,6 +39,7 @@ sections:
         style: secondary
     has_background: true
     background_color: blue
+    title: Unete a nuestro equipo
 seo:
   title: Who We Are
   description: This is the about us page
